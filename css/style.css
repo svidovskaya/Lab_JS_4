@@ -3,3 +3,7 @@
   color: white; 
   font-size: 14px; 
 }
+input{
+  display: block;
+  margin: 5px;
+}
